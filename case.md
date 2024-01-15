@@ -38,10 +38,3 @@ This project aims to create a Linear Regression model to predict insurance-relat
 6. **Hyperparameter Optimization:**
    - Application of GridSearchCV to find the best hyperparameters.
 
-## **CONTRIBUTIONS AND KNOWN ISSUES** 🤝
-
-Contributions are welcome! If you encounter any issues or have suggestions, please open an issue.
-
-## **LICENSE** 📄
-
-This project is licensed under the [MIT License](LICENSE).
